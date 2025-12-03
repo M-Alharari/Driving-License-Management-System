@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\bin\Debug\ProjectDataAccessLayer.dll
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\bin\Debug\ProjectDataAccessLayer.pdb
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\obj\Debug\ProjectDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\obj\Debug\ProjectDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\obj\Debug\ProjectDataAccessLayer.dll
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\obj\Debug\ProjectDataAccessLayer.pdb
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\bin\Debug\PrayerTimes.dll
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\bin\Debug\PrayerTimes.pdb
+C:\Users\Dell\source\repos\ProjectDataAccessLayer\obj\Debug\ProjectD.7B4CAC37.Up2Date

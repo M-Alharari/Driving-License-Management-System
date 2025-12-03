@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace MyFirstProject
+{
+    public partial class frmPersonDetails : Form
+    {
+        public frmPersonDetails()
+        {
+        }
+
+        public frmPersonDetails(int PersonID)
+        {
+            InitializeComponent();
+            ctrPersonCard1.LoadPersonInfo(PersonID);
+        }
+
+        public frmPersonDetails(string NationalNo)
+        {
+            InitializeComponent();
+            ctrPersonCard1.LoadPersonInfo(NationalNo);
+        }
+    }
+}

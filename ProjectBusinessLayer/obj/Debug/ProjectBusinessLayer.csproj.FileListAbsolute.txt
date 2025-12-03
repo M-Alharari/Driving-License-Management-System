@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\ProjectBusinessLayer\bin\Debug\ProjectBusinessLayer.dll
+C:\Users\Dell\source\repos\ProjectBusinessLayer\bin\Debug\ProjectBusinessLayer.pdb
+C:\Users\Dell\source\repos\ProjectBusinessLayer\bin\Debug\ProjectDataAccessLayer.dll
+C:\Users\Dell\source\repos\ProjectBusinessLayer\bin\Debug\ProjectDataAccessLayer.pdb
+C:\Users\Dell\source\repos\ProjectBusinessLayer\obj\Debug\ProjectBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ProjectBusinessLayer\obj\Debug\ProjectBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProjectBusinessLayer\obj\Debug\ProjectB.C174887B.Up2Date
+C:\Users\Dell\source\repos\ProjectBusinessLayer\obj\Debug\ProjectBusinessLayer.dll
+C:\Users\Dell\source\repos\ProjectBusinessLayer\obj\Debug\ProjectBusinessLayer.pdb
+C:\Users\Dell\source\repos\ProjectBusinessLayer\bin\Debug\PrayerTimes.dll
+C:\Users\Dell\source\repos\ProjectBusinessLayer\bin\Debug\PrayerTimes.pdb
